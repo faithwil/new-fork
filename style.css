@@ -16,8 +16,14 @@ h1 {
 
 .maintext{
     color: white;
+    
 }
   
+.maintext img{
+    width: 20px;
+    height: 20px;
+}
+
 li a {
     display: block;
     background-color: black;
