@@ -96,6 +96,7 @@ h3 {
   .video{
     width: 1400px;
     height: 600px;
+
   }
 
 h2 {
@@ -114,7 +115,7 @@ h2 {
   );
   background-size: 50px 50px;
   background-clip: border-box;
-  background-size: 50px 50px;
+  background-size: 200% auto;
   color: #fff;
   background-clip: text;
   color: transparent;
