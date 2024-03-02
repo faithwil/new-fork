@@ -113,7 +113,7 @@ h2 {
     #ea80b1 67%,
     #5899d0 100%
   );
-  background-size: auto auto;
+  background-size: 50px 50px;
   background-clip: border-box;
   background-size: 200% auto;
   color: #fff;
