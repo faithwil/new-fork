@@ -14,11 +14,6 @@ h1 {
     background-color: black;
 }
 
-a {
-    color: white;
-    font-size: 15px
-}
-
 .maintext{
     color: white;
 }
@@ -26,6 +21,8 @@ a {
 li a {
     display: block;
     background-color: black;
+    color: white;
+    font-size: 15px
     text-align: center;
     padding: 10px 12px;
     text-decoration: none;
