@@ -12,5 +12,9 @@ a {
 }
   
 li a {
-    word-spacing: 5px
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
 }
