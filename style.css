@@ -34,7 +34,7 @@ li a:hover {
 }
 
 li img:hover{
-    color: orange;
+    background-color: orange;
 }
 
 .collage {
