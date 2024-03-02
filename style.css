@@ -30,7 +30,7 @@ li a {
 
 .collage {
     width: 1425px;
-    height:550px;
+    height: 550px;
 }
 
 h3 {
@@ -38,4 +38,8 @@ h3 {
     font-size: 45px;
     text-align: center;
     font-family: 'Staatliches', sans-serif;
+}
+
+.tabs{
+    width: 475px;
 }
