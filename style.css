@@ -18,11 +18,10 @@ h1 {
     color: white;
     
 }
-  
-.maintext img{
+.icon{
     width: 20px;
     height: 20px;
-}
+    }
 
 li a {
     display: block;
