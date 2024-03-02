@@ -96,4 +96,5 @@ h3 {
   .video{
     width: 1380px;
     height: 800px;
+    align-content: center;
   }
