@@ -1,10 +1,10 @@
 @font-face{
-    font-family: fontgeek;
-    src:url(Block\ Berthold\ Regular.ttf);
+    font-family: google;
+    src:url(https://fonts.googleapis.com/css2?family=Staatliches&display=swap)
 }
 
 h1 {
-    font-family: fontgeek;
+    font-family: google;
 }
 
 .canvas{
