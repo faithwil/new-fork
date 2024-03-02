@@ -7,7 +7,7 @@ h1 {
     font-family: 'Staatliches', sans-serif;
     font-size: 75px;
     text-align: center;
-    padding: 40px 42px 0px
+    padding: 40px 0px 0px
 }
 
 .canvas{
@@ -31,5 +31,5 @@ li a {
 .collage {
     width: 1450px;
     height:550px;
-    padding: -10px 0px
+    padding: 
 }
