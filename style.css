@@ -114,7 +114,7 @@ h2 {
   );
   background-size: 50px 50px;
   background-clip: border-box;
-  background-size: 200% auto;
+  background-size: 50px 50px;
   color: #fff;
   background-clip: text;
   color: transparent;
