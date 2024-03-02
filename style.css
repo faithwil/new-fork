@@ -72,7 +72,7 @@ h3 {
 
 .heading3{
     position: relative;
-    animation: move-words 10s linear infinite;
+    animation: move-words 15s linear infinite;
     margin: 0;
 }
 
