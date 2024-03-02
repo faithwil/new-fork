@@ -1,3 +1,12 @@
+@font-face{
+    font-family: fontgeek;
+    src:url(Block\ Berthold\ Regular.ttf);
+}
+
+h1 {
+    font-family: fontgeek;
+}
+
 .canvas{
     background-color: black;
 }
@@ -16,13 +25,4 @@ li a {
     text-align: center;
     padding: 10px 12px;
     text-decoration: none;
-}
-
-@font-face{
-    font-family: fontgeek;
-    src:url(Block\ Berthold\ Regular.ttf);
-}
-
-h1 {
-    font-family: fontgeek;
 }
