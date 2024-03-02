@@ -92,3 +92,8 @@ h3 {
   .sotd {
     font-size: 100px;
   }
+
+  .video{
+    width: 600px;
+    height: 200px;
+  }
