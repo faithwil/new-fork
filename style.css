@@ -10,7 +10,7 @@ a {
 .maintext{
     color: white;
 }
-
-.links{
-    word-spacing: 5px;
+  
+li a {
+    word-spacing: 5px
 }
