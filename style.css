@@ -42,7 +42,6 @@ li a:hover {
 li img {
     width: 40px;
     height: 40px;
-    line-height: 0;
 }
 
 li img:hover {animation: shaking 0.5s infinite;}
@@ -76,6 +75,7 @@ h3 {
     position: relative;
     animation: move-words 15s linear infinite;
     margin: 0;
+    line-height: 0;
 }
 
 @keyframes move-words {
