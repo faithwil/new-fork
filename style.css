@@ -131,7 +131,6 @@ h2 {
 @keyframes textclip {
   to {
     background-position: 200% center;
-    line-height: 0;
   }
 }
 
