@@ -132,15 +132,3 @@ h2 {
     background-position: 200% center;
   }
 }
-
-.shrink {
-    -webkit-transition: all 1s ease;
-    -moz-transition: all 1s ease;
-    -o-transition: all 1s ease;
-    -ms-transition: all 1s ease;
-    transition: all 1s ease;
- }
-.shrink img:hover {
-     width: 300px;
-     height: 300px;
-}
