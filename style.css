@@ -75,7 +75,6 @@ h3 {
     position: relative;
     animation: move-words 15s linear infinite;
     margin: 0;
-    line-height: 0;
 }
 
 @keyframes move-words {
