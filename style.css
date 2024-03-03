@@ -87,7 +87,7 @@ h3 {
   }
 
   .spotify {
-    padding: 10px 0px 40px 0px;
+    padding: 10px 0px 0px 0px;
   }
 
   .sotd {
@@ -98,6 +98,7 @@ h3 {
     width: 1400px;
     height: 600px;
     line-height: 0;
+    padding: 0px 0px 25px 0px
 
   }
 
