@@ -97,6 +97,7 @@ h3 {
   .video{
     width: 1400px;
     height: 600px;
+    line-height: 0;
 
   }
 
