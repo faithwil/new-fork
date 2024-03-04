@@ -66,11 +66,20 @@ h3 {
     font-family: 'Staatliches', sans-serif;
 }
 
-.tabs{
+.tab1{
     width: 33%;
     height: 33%;
 }
 
+.tab2{
+  width: 33%;
+  height: 33%;
+}
+
+.tab3{
+  width: 33%;
+  height: 33%;
+}
 .heading3{
     position: relative;
     animation: move-words 15s linear infinite;
