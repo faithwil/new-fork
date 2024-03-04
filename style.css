@@ -68,6 +68,7 @@ h3 {
 
 .tabs{
     width: 33%;
+    height: 33%
 }
 
 .heading3{
@@ -140,16 +141,4 @@ span {
     font-size: 15px;
     color: white;
     font-family: 'Staatliches', sans-serif;
-}
-
-.discover {
-  height: 33%;
-}
-
-.culture {
-  height: 33%;
-}
-
-.appreciate {
-  height: 33%;
 }
