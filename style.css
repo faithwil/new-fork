@@ -55,7 +55,7 @@ li img:hover {animation: shaking 0.5s infinite;}
 }
 
 .collage {
-    width: 1420px;
+    width: 100%;
     height: 550px;
 }
 
