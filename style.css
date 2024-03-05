@@ -66,7 +66,7 @@ h3 {
     font-family: 'Staatliches', sans-serif;
 }
 
-.tabs {
+.tabs a{
     width: 33%;
     height: 33%;
 }
