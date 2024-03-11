@@ -71,6 +71,11 @@ h3 {
     height: 33%;
 }
 
+.tabs:hover {
+  background-color: aquamarine;
+}
+
+
 .heading3{
     position: relative;
     animation: move-words 15s linear infinite;
