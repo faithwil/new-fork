@@ -64,17 +64,13 @@ h3 {
     font-size: 45px;
     text-align: center;
     font-family: 'Staatliches', sans-serif;
+    margin: 0px;
 }
 
 .tabs{
     width: 33%;
     height: 33%;
 }
-
-.tabs:hover {
-  background-color: aquamarine;
-}
-
 
 .heading3{
     position: relative;
