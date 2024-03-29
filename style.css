@@ -131,16 +131,24 @@ li img:hover {animation: shaking 0.5s infinite;}
 }
 
 .newreleases h1 {
-    
-    
+    padding: 15% 10% 0% 10%;
+    font-size: 150px;
+    margin: 0px;
+
 }
 
 .newreleases h3 {
-    
+    padding: 0% 10% 0% 10%;
+    font-size: 60px;
+    margin: 0px;
+    word-spacing: 90px;
     
 }
 
 .newreleases h5 {
+    padding: 0% 10% 0% 10%;
+    font-size: 30px;
+    margin: 0px;
     
     
 }
