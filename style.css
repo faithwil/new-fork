@@ -40,8 +40,8 @@ li a:hover {
 }
 
 li img {
-    width: 40px;
-    height: 40px;
+    width: 28px;
+    height: 28px;
 }
 
 li img:hover {animation: shaking 0.5s infinite;}
@@ -109,8 +109,22 @@ h2 {
     margin: 50px 0px;
 }
 
-span {
+.footer {
     font-size: 15px;
     color: white;
     font-family: 'Staatliches', sans-serif;
+}
+
+
+.body{
+    display: block;
+    background-color: black;
+    color: white;
+    font-family: 'Staatliches', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    padding: 5px 15px 0px 0px;
+    text-decoration: none;
+    font-family: 'Staatliches', sans-serif;
+    float:left
 }
