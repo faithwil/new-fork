@@ -3,7 +3,7 @@
     src:url(https://fonts.googleapis.com/css2?family=Staatliches&display=swap)
 }
 
-h1 {
+.maintext h1 {
     font-family: 'Staatliches', sans-serif;
     font-size: 60px;
     text-align: center;
@@ -59,20 +59,12 @@ li img:hover {animation: shaking 0.5s infinite;}
     height: 35%;
 }
 
-h3 {
+.maintext h3 {
     word-spacing: 140px;
     font-size: 45px;
     text-align: center;
     font-family: 'Staatliches', sans-serif;
     margin: 0px;
-}
-
-.tabs{
-    width: 33%;
-    height: 33%;
-}
-
-.heading3{
     position: relative;
     animation: move-words 15s linear infinite;
     margin: 0;
@@ -86,6 +78,11 @@ h3 {
       left: -100%;
     }
   }
+
+.tabs{
+    width: 33%;
+    height: 33%;
+}
 
   .spotify {
     padding: 10px 0px 0px 0px;
@@ -103,7 +100,7 @@ h3 {
 
   }
 
-h2 {
+.maintext h2 {
     font-family: 'Staatliches', sans-serif;
     font-size: 100px;
     margin: 50px 0px;
@@ -114,7 +111,6 @@ h2 {
     color: white;
     font-family: 'Staatliches', sans-serif;
 }
-
 
 .body{
     display: block;
@@ -127,4 +123,24 @@ h2 {
     text-decoration: none;
     font-family: 'Staatliches', sans-serif;
     float:left
+}
+
+.newreleases {
+    color: white;
+
+}
+
+.newreleases h1 {
+    
+    
+}
+
+.newreleases h3 {
+    
+    
+}
+
+.newreleases h5 {
+    
+    
 }
