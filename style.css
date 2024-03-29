@@ -131,7 +131,7 @@ li img:hover {animation: shaking 0.5s infinite;}
 }
 
 .newreleases h1 {
-    padding: 10% 10% 0% 10%;
+    padding: 10% 5% 0% 5%;
     font-size: 250px;
     margin: 0px;
     height: 240px;
@@ -139,7 +139,7 @@ li img:hover {animation: shaking 0.5s infinite;}
 }
 
 .newreleases h3 {
-    padding: 0% 10% 0% 10%;
+    padding: 0% 5% 0% 5%;
     font-size: 70px;
     margin: 0px;
     word-spacing: 95px;
@@ -149,16 +149,18 @@ li img:hover {animation: shaking 0.5s infinite;}
 }
 
 .newreleases h5 {
-    padding: 0% 10% 0% 10%;
+    padding: 0% 5% 0% 5%;
     font-size: 25px;
     margin: 0px;
     letter-spacing: 1px;
     word-spacing: 22px;
     font-family: 'Staatliches', sans-serif;
+    height: 0px;
 }
 
 .newreleases img{
-    padding: 0% 0% 0% 10%;
-    height: 300px;
-    width: 300px;
+    padding: 0% 0% 0% 2%;
+    height: 200px;
+    width: 200px;
+
 }
