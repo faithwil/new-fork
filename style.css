@@ -156,3 +156,9 @@ li img:hover {animation: shaking 0.5s infinite;}
     word-spacing: 22px;
     font-family: 'Staatliches', sans-serif;
 }
+
+.newreleases img{
+    padding: 0% 0% 0% 10%;
+    height: 300px;
+    width: 300px;
+}
