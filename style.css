@@ -137,12 +137,13 @@ main {
 .container{
     display: flex;
     padding: 10% 0 0 0;
-    width: 60%;
+    width: 1300px;
+    height: 488px;
 }
     
 .container img {
         height: 200px;
-        padding: 12% 1%;
+        padding: 8% 1%;
 
  }
     
