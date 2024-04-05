@@ -136,14 +136,14 @@ main {
 
 .container{
     display: flex;
-    padding: 10% 0 0 0;
+    padding: 10% 0 60% 0;
     width: 1300px;
     height: 488px;
 }
     
 .container img {
         height: 200px;
-        padding: 8% 1%;
+        padding: 8% 0px 0px 40px;
 
  }
     
@@ -170,3 +170,8 @@ main {
     word-spacing: 22px;
     font-family: 'Staatliches', sans-serif;
 }
+
+body {
+    height: auto; /* Used to enable scrolling */
+    background: linear-gradient(black 45%, #1d1243 65%, #6846e3 100%);
+  }
