@@ -110,9 +110,10 @@ li img:hover {animation: shaking 0.5s infinite;}
     font-size: 15px;
     color: white;
     font-family: 'Staatliches', sans-serif;
+    margin-top: auto;
 }
 
-.body{
+.body {
     display: block;
     background-color: black;
     color: white;
@@ -137,7 +138,7 @@ main {
 
 .container{
     display: flex;
-    padding: 10% 0 60% 0;
+    padding: 10% 0 95% 0;
     width: 1300px;
     height: 488px;
 }
@@ -171,4 +172,3 @@ main {
     word-spacing: 22px;
     font-family: 'Staatliches', sans-serif;
 }
-
