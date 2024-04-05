@@ -127,7 +127,8 @@ li img:hover {animation: shaking 0.5s infinite;}
 
 .newreleases {
     color: white;
-
+    height: auto; /* Used to enable scrolling */
+    background: linear-gradient(black 45%, #1d1243 65%, #6846e3 100%);
 }
 
 main {
@@ -171,7 +172,3 @@ main {
     font-family: 'Staatliches', sans-serif;
 }
 
-.newreleases {
-    height: auto; /* Used to enable scrolling */
-    background: linear-gradient(black 45%, #1d1243 65%, #6846e3 100%);
-  }
