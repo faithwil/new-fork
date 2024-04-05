@@ -171,7 +171,7 @@ main {
     font-family: 'Staatliches', sans-serif;
 }
 
-body {
+.newreleases {
     height: auto; /* Used to enable scrolling */
     background: linear-gradient(black 45%, #1d1243 65%, #6846e3 100%);
   }
